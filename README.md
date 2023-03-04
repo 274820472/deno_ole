@@ -8,4 +8,5 @@ If you have available solutions, you can share them with me
 For example
 
 const com_ = com.create('xxx');
-const res = com_.call(arg,...);
+
+const res = com_.call(...arg);
